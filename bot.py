@@ -73,5 +73,5 @@ class Bot(commands.Bot, events.EventsMixin):
 
 
 if __name__ == "__main__":
-    bot = Bot()
-    bot.run(config.BOT_TOKEN)
+    bot = Bot(1012439225922224168)
+    bot.run(config.MTAxMjQzOTIyNTkyMjIyNDE2OA.G16nOR.uGFlBYFCX1-uoYb5plW09ITwSrDukJeX0i85Tw)
